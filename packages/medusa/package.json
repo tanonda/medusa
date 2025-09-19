@@ -95,7 +95,7 @@
     "@medusajs/locking-redis": "2.8.4",
     "@medusajs/notification": "2.8.4",
     "@medusajs/notification-local": "2.8.4",
-    "@medusajs/notification-sendgrid": "2.8.4",
+    "@medusajs/notification-sendgrid": "0.0.1",
     "@medusajs/order": "2.8.4",
     "@medusajs/payment": "2.8.4",
     "@medusajs/payment-stripe": "2.8.4",
