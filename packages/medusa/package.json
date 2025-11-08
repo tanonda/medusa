@@ -113,7 +113,7 @@
     "@medusajs/stock-location": "2.10.3",
     "@medusajs/store": "2.10.3",
     "@medusajs/tax": "2.10.3",
-    "@medusajs/telemetry": "2.10.3",
+    "@medusajs/telemetry": "2.11.3",
     "@medusajs/user": "2.10.3",
     "@medusajs/workflow-engine-inmemory": "2.10.3",
     "@medusajs/workflow-engine-redis": "2.10.3",
