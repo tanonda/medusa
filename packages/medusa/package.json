@@ -69,7 +69,7 @@
   "dependencies": {
     "@inquirer/checkbox": "^2.3.11",
     "@inquirer/input": "^2.2.9",
-    "@medusajs/admin-bundler": "2.10.3",
+    "@medusajs/admin-bundler": "0.0.0",
     "@medusajs/analytics": "2.10.3",
     "@medusajs/analytics-local": "2.10.3",
     "@medusajs/analytics-posthog": "2.10.3",
@@ -84,7 +84,7 @@
     "@medusajs/core-flows": "2.10.3",
     "@medusajs/currency": "2.10.3",
     "@medusajs/customer": "2.10.3",
-    "@medusajs/draft-order": "2.10.3",
+    "@medusajs/draft-order": "0.0.1",
     "@medusajs/event-bus-local": "2.10.3",
     "@medusajs/event-bus-redis": "2.10.3",
     "@medusajs/file": "2.10.3",
