@@ -24,7 +24,7 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "@medusajs/admin-shared": "2.10.3",
+    "@medusajs/admin-shared": "0.0.0",
     "zod": "3.25.76"
   },
   "packageManager": "yarn@3.2.1"
