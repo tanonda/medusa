@@ -19,7 +19,7 @@
     "@medusajs/fulfillment": "workspace:^",
     "@medusajs/fulfillment-manual": "workspace:^",
     "@medusajs/inventory": "workspace:^",
-    "@medusajs/medusa": "workspace:*",
+    "@medusajs/medusa": "0.1.16",
     "@medusajs/modules-sdk": "workspace:^",
     "@medusajs/pricing": "workspace:^",
     "@medusajs/product": "workspace:^",
@@ -31,7 +31,7 @@
     "@medusajs/test-utils": "workspace:*",
     "@medusajs/user": "workspace:^",
     "@medusajs/utils": "workspace:^",
-    "@medusajs/workflow-engine-inmemory": "workspace:*",
+    "@medusajs/workflow-engine-inmemory": "0.0.2",
     "form-data": "^4.0.0",
     "jsonwebtoken": "^9.0.2",
     "pg": "^8.11.3"
